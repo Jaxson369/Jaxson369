@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jaxson369
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning C programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C programming language.
+- 💞️ I’m looking to collaborate on Learning programming languages.
+- 📫 You can reach me thorugh my insta id: @tech_spark_16.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: This is my first time learning c language.
 
